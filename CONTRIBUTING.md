@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to homebridge-melcloud-home!
+Thanks for your interest in contributing to homebridge-melcloud-home-plus!
 
 ## How to Contribute
 
@@ -35,7 +35,7 @@ Open an issue describing:
 
 ```bash
 git clone https://github.com/eehnsio/homebridge-melcloud-home.git
-cd homebridge-melcloud-home
+cd homebridge-melcloud-home-plus
 npm install
 npm run build
 ```

@@ -1,9 +1,11 @@
-# Homebridge MELCloud Home
+# Homebridge MELCloud Home Plus
 
-[![npm version](https://img.shields.io/npm/v/homebridge-melcloud-home.svg)](https://www.npmjs.com/package/homebridge-melcloud-home)
-[![npm downloads](https://img.shields.io/npm/dt/homebridge-melcloud-home.svg)](https://www.npmjs.com/package/homebridge-melcloud-home)
+[![npm version](https://img.shields.io/npm/v/homebridge-melcloud-home-plus.svg)](https://www.npmjs.com/package/homebridge-melcloud-home-plus)
+[![npm downloads](https://img.shields.io/npm/dt/homebridge-melcloud-home-plus.svg)](https://www.npmjs.com/package/homebridge-melcloud-home-plus)
 
 Homebridge plugin for Mitsubishi Electric Air Conditioners using the **MELCloud Home** platform (melcloudhome.com).
+
+**Plus version** with virtual fan devices for fan speed and swing control (similar to Home Assistant template fans).
 
 ## Background
 
@@ -45,7 +47,7 @@ Not sure which one you have? Check which website you log into - if it's melcloud
 
 ### Via Homebridge UI
 
-1. Search for `homebridge-melcloud-home` in the Homebridge plugins tab
+1. Search for `homebridge-melcloud-home-plus` in the Homebridge plugins tab
 2. Click Install
 3. Click Settings (gear icon) after installation
 4. Enter your MELCloud email and password in Step 1
@@ -56,7 +58,7 @@ Not sure which one you have? Check which website you log into - if it's melcloud
 ### Via npm
 
 ```bash
-npm install -g homebridge-melcloud-home
+npm install -g homebridge-melcloud-home-plus
 ```
 
 ## Setup
